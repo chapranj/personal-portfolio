@@ -22,14 +22,14 @@ export const Projects = () => {
     {
       title: "Point of Sale System",
       description:
-        "Ticket Ease is a task management application built with the MERN stack, similar to JIRA. Users can create, update, delete, and assign tickets, while admins have the authority to delete any ticket.",
+        "POS System application, built using Java and JDBC, dynamically generates a restaurant's POS interface from a specifically formatted text file, allowing easy customization and efficient database management for order processing.",
       imgUrl: projImg2,
       githubUrl: "https://github.com/chapranj/POS-Application.git",
     },
     {
       title: "C-Covid Survey",
       description:
-        "Ticket Ease is a task management application built with the MERN stack, similar to JIRA. Users can create, update, delete, and assign tickets, while admins have the authority to delete any ticket.",
+        "C COVID Survey is a COVID-19 tracking and management console application built in C using linked lists. It efficiently handles and stores records of COVID-19 patients across different cities, enabling dynamic data management and retrieval for tracking the pandemic.",
       imgUrl: projImg3,
       githubUrl: "https://github.com/chapranj/C-Covid-Survey.git",
     },
