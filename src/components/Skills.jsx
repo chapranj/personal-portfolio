@@ -62,7 +62,6 @@ export const Skills = () => {
       gradient: "bg-gradient-to-r from-indigo-500 to-purple-600",
       skills: [
         { name: "PyTorch", level: 85 },
-        { name: "Scikit-learn", level: 88 },
         { name: "OpenAI API", level: 75 },
       ],
     },
